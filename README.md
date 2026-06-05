@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/marwanabdelsamad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:marwan.t.abdelsamad@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/MarvanGit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
@@ -138,20 +138,20 @@ Software Engineering · Backend Development · Full-Stack Applications · Data A
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="github stats" />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarvanGit&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="github stats" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="top languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvanGit&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="top languages" />
+</div> -->
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MarvanGit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
