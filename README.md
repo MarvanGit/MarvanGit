@@ -72,8 +72,6 @@ I'm a **B.Sc. Artificial Intelligence student at FAU Erlangen-Nürnberg** intere
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="35" alt="scipy" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="35" alt="qt" />
 </div>
 
@@ -97,7 +95,7 @@ Desktop app for EMG signal visualization, filtering, RMS envelope extraction, fa
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarvanGit&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MarvanGit&locale=en&mode=hourly&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 
