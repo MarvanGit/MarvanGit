@@ -5,14 +5,11 @@
 <h1 align="center">Hey, I'm Marwan 👋</h1>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/marwanabdelsamad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:marwan.t.abdelsamad@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -25,7 +22,7 @@ I'm a **B.Sc. Artificial Intelligence student at FAU Erlangen-Nürnberg** intere
 * 🔭 Currently building a **Workforce Analytics & Scheduling Platform**
 * 🧠 Also working on an **EMG Signal Visualization & Analysis Application**
 * 📚 Learning backend architecture, databases, testing, automation, and production-ready systems
-* 🌍 Languages: Arabic, English, Russian, German
+* 🌍 Languages: English, German, Arabic, German
 
 ---
 
