@@ -22,7 +22,7 @@ I'm a **B.Sc. Artificial Intelligence student at FAU Erlangen-Nürnberg** intere
 * 🔭 Currently building a **Workforce Analytics & Scheduling Platform**
 * 🧠 Also working on an **EMG Signal Visualization & Analysis Application**
 * 📚 Learning backend architecture, databases, testing, automation, and production-ready systems
-* 🌍 Languages: English, German, Arabic, German
+* 🌍 Languages: English, German, Arabic, Russian
 
 ---
 
