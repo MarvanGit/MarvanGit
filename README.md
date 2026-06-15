@@ -20,7 +20,7 @@
 I'm a **B.Sc. Artificial Intelligence student at FAU Erlangen-Nürnberg** interested in **software engineering, full-stack development, backend systems, data-driven applications, and AI-assisted development workflows**.
 
 * 🔭 Currently building a **Workforce Analytics & Scheduling Platform**
-* 🧠 Also working on an **EMG Signal Visualization & Analysis Application**
+* 🧠 Also working on an **EMG Signal Visualization & Analysis HMI**
 * 📚 Learning backend architecture, databases, testing, automation, and production-ready systems
 * 🌍 Languages: English, German, Arabic, Russian
 
@@ -81,7 +81,7 @@ Full-stack workforce planning app with availability, absences, shift scheduling,
 
 `Angular` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `OR-Tools` · `pytest` · `Playwright`
 
-**EMG Signal Visualization & Analysis Application**
+**EMG Signal Visualization & Analysis HMI**
 Desktop app for EMG signal visualization, filtering, RMS envelope extraction, fatigue analysis, and event detection.
 
 `Python` · `PySide6` · `PyQtGraph` · `NumPy` · `SciPy` · `pytest` · `GitHub Actions`
