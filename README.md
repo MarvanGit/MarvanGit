@@ -5,45 +5,50 @@ I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU E
 
 [Portfolio](https://marwantaha.dev) · [LinkedIn](https://www.linkedin.com/in/marwanabdelsamad/) · [Email](mailto:marwan.t.abdelsamad@gmail.com)
 
-## Selected work
-
-- **[WerkMatch](https://github.com/MarvanGit/WerkMatch)** · [Live demo](https://werkmatch-orcin.vercel.app/demo)<br>
-  <sub>TypeScript · Next.js · React · Supabase · PostgreSQL</sub>
-- **[EMG Signal HMI](https://github.com/MarvanGit/realtime-emg-app)** · [Screenshots](https://github.com/MarvanGit/realtime-emg-app#screenshots)<br>
-  <sub>Python · PySide6 · VisPy · NumPy · SciPy</sub>
-- **[Workforce Automation & Analytics](https://github.com/MarvanGit/workforce-automation-analytics)** · [Architecture & roadmap](https://github.com/MarvanGit/workforce-automation-analytics#architecture)<br>
-  <sub>Angular · FastAPI · PostgreSQL · Redis · Celery · Docker</sub>
-
 ## Tools I work with
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-24292f?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="Angular" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++" title="C++" />
 </p>
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-24292f?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="pytest" src="https://img.shields.io/badge/pytest-24292f?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" alt="Redis" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="44" alt="Supabase" title="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="44" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="44" alt="pytest" title="pytest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="44" alt="Playwright" title="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="44" alt="Qt" title="Qt" />
 </p>
-
-**Also used:** Java, C++, JavaScript, Node.js, Express, SQL, Redis, Celery, Git, Postman, Playwright, NumPy, SciPy, and Qt.
 
 ## GitHub activity
 
-<a href="https://github.com/MarvanGit?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarvanGit&theme=github_dark" />
-    <img width="700" alt="Marwan's GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarvanGit&theme=github" />
-  </picture>
-</a>
+<p>
+  <a href="https://github.com/MarvanGit?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarvanGit&theme=github_dark" />
+      <img width="340" alt="Marwan's GitHub contribution statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarvanGit&theme=github" />
+    </picture>
+  </a>
+  <a href="https://github.com/MarvanGit?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarvanGit&theme=github_dark" />
+      <img width="340" alt="Languages used across Marwan's commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarvanGit&theme=github" />
+    </picture>
+  </a>
+</p>
 
-<sub>Live public contribution data from <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>.</sub>
+<sub>Live public GitHub data. Language distribution reflects repository commits, not proficiency.</sub>
 
 ---
 
