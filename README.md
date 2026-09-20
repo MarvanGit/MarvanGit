@@ -7,26 +7,12 @@ I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU E
 
 ## Selected work
 
-### [WerkMatch](https://github.com/MarvanGit/WerkMatch)
-
-A job-search workspace that matches opportunities against verified CV evidence and prepares tailored application documents. Includes isolated user workspaces, scheduled job collection, and recoverable background jobs.
-
-**TypeScript · Next.js · React · Supabase · PostgreSQL**<br>
-[Try the public demo](https://werkmatch-orcin.vercel.app/demo) · [Explore the code](https://github.com/MarvanGit/WerkMatch)
-
-### [EMG Signal HMI](https://github.com/MarvanGit/realtime-emg-app)
-
-A desktop application for live **32-channel EMG streaming** and offline signal analysis. Supports RMS envelopes, Butterworth filtering, Welch power spectra, and spectrograms, with automated tests across the processing and UI layers.
-
-**Python · PySide6 · VisPy · NumPy · SciPy**<br>
-[Explore the code and screenshots](https://github.com/MarvanGit/realtime-emg-app)
-
-### [Workforce Automation & Analytics](https://github.com/MarvanGit/workforce-automation-analytics)
-
-A workforce planning platform in development. The current foundation includes a versioned API, relational data model, background workers, an Angular dashboard shell, and CI checks. Availability imports and constraint-based scheduling are next.
-
-**Angular · FastAPI · PostgreSQL · Redis · Celery · Docker**<br>
-[Explore the architecture and roadmap](https://github.com/MarvanGit/workforce-automation-analytics)
+- **[WerkMatch](https://github.com/MarvanGit/WerkMatch)** · [Live demo](https://werkmatch-orcin.vercel.app/demo)<br>
+  <sub>TypeScript · Next.js · React · Supabase · PostgreSQL</sub>
+- **[EMG Signal HMI](https://github.com/MarvanGit/realtime-emg-app)** · [Screenshots](https://github.com/MarvanGit/realtime-emg-app#screenshots)<br>
+  <sub>Python · PySide6 · VisPy · NumPy · SciPy</sub>
+- **[Workforce Automation & Analytics](https://github.com/MarvanGit/workforce-automation-analytics)** · [Architecture & roadmap](https://github.com/MarvanGit/workforce-automation-analytics#architecture)<br>
+  <sub>Angular · FastAPI · PostgreSQL · Redis · Celery · Docker</sub>
 
 ## Tools I work with
 
@@ -50,22 +36,14 @@ A workforce planning platform in development. The current foundation includes a 
 
 ## GitHub activity
 
-<p>
-  <a href="https://github.com/MarvanGit?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MarvanGit&show_icons=true&hide_rank=true&hide=stars%2Cissues&show=reviews&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=350&disable_animations=true" />
-      <img width="350" alt="GitHub activity: commits, pull requests, reviews, and repositories contributed to" src="https://github-stats-extended.vercel.app/api?username=MarvanGit&show_icons=true&hide_rank=true&hide=stars%2Cissues&show=reviews&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e&icon_color=0969da&card_width=350&disable_animations=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/MarvanGit?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=MarvanGit&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&card_width=350&langs_count=6&disable_animations=true" />
-      <img width="350" alt="Most used languages across public repositories" src="https://github-stats-extended.vercel.app/api/top-langs?username=MarvanGit&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e&card_width=350&langs_count=6&disable_animations=true" />
-    </picture>
-  </a>
-</p>
+<a href="https://github.com/MarvanGit?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarvanGit&theme=github_dark" />
+    <img width="700" alt="Marwan's GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarvanGit&theme=github" />
+  </picture>
+</a>
 
-<sub>Live public GitHub data, refreshed by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>. Language proportions reflect repository code, not proficiency.</sub>
+<sub>Live public contribution data from <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>.</sub>
 
 ---
 
