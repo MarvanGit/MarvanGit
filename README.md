@@ -31,24 +31,13 @@ I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU E
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="44" alt="Qt" title="Qt" />
 </p>
 
-## GitHub activity
+## 📊 GitHub Stats
 
-<p>
-  <a href="https://github.com/MarvanGit?tab=overview">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarvanGit&theme=github_dark" />
-      <img width="340" alt="Marwan's GitHub contribution statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarvanGit&theme=github" />
-    </picture>
-  </a>
-  <a href="https://github.com/MarvanGit?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarvanGit&theme=github_dark" />
-      <img width="340" alt="Languages used across Marwan's commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarvanGit&theme=github" />
-    </picture>
-  </a>
+<p align="center">
+  <img height="115" alt="Marwan's GitHub statistics" src="https://github-readme-stats.shion.dev/api?username=MarvanGit&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" />
+  <img height="115" alt="Marwan's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=MarvanGit&amp;theme=dark&amp;hide_border=false" />
+  <img height="115" alt="Marwan's most-used GitHub languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MarvanGit&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" />
 </p>
-
-<sub>Live public GitHub data. Language distribution reflects repository commits, not proficiency.</sub>
 
 ---
 
