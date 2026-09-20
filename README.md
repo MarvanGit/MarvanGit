@@ -1,8 +1,6 @@
 # Marwan Abdelsamad
 **Software engineering · Full-stack systems · Applied AI**
 
-I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU Erlangen-Nürnberg**, based in Erlangen, Germany. I build web applications, backend services, and data tools, with a focus on clear architecture, automation, and testing.
-
 ## Tools I work with
 
 <p>
