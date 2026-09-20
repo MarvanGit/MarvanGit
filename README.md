@@ -3,8 +3,6 @@
 
 I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU Erlangen-Nürnberg**, based in Erlangen, Germany. I build web applications, backend services, and data tools, with a focus on clear architecture, automation, and testing.
 
-[Portfolio](https://marwantaha.dev) · [LinkedIn](https://www.linkedin.com/in/marwanabdelsamad/) · [Email](mailto:marwan.t.abdelsamad@gmail.com)
-
 ## Tools I work with
 
 <p>
@@ -31,7 +29,6 @@ I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU E
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="44" alt="Qt" title="Qt" />
 </p>
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img height="115" alt="Marwan's GitHub statistics" src="https://github-readme-stats.shion.dev/api?username=MarvanGit&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" />
@@ -41,5 +38,4 @@ I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU E
 
 ---
 
-**Languages:** English · German · Arabic · Russian  
 Find project details and my background at [marwantaha.dev](https://marwantaha.dev).
