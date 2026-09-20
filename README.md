@@ -1,5 +1,4 @@
 # Marwan Abdelsamad
-
 **Software engineering · Full-stack systems · Applied AI**
 
 I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU Erlangen-Nürnberg**, based in Erlangen, Germany. I build web applications, backend services, and data tools, with a focus on clear architecture, automation, and testing.
@@ -12,21 +11,21 @@ I'm a B.Sc. Artificial Intelligence in Biomedical Engineering student at **FAU E
 
 A job-search workspace that matches opportunities against verified CV evidence and prepares tailored application documents. Includes isolated user workspaces, scheduled job collection, and recoverable background jobs.
 
-**TypeScript · Next.js · React · Supabase · PostgreSQL**  
+**TypeScript · Next.js · React · Supabase · PostgreSQL**<br>
 [Try the public demo](https://werkmatch-orcin.vercel.app/demo) · [Explore the code](https://github.com/MarvanGit/WerkMatch)
 
 ### [EMG Signal HMI](https://github.com/MarvanGit/realtime-emg-app)
 
 A desktop application for live **32-channel EMG streaming** and offline signal analysis. Supports RMS envelopes, Butterworth filtering, Welch power spectra, and spectrograms, with automated tests across the processing and UI layers.
 
-**Python · PySide6 · VisPy · NumPy · SciPy**  
+**Python · PySide6 · VisPy · NumPy · SciPy**<br>
 [Explore the code and screenshots](https://github.com/MarvanGit/realtime-emg-app)
 
 ### [Workforce Automation & Analytics](https://github.com/MarvanGit/workforce-automation-analytics)
 
 A workforce planning platform in development. The current foundation includes a versioned API, relational data model, background workers, an Angular dashboard shell, and CI checks. Availability imports and constraint-based scheduling are next.
 
-**Angular · FastAPI · PostgreSQL · Redis · Celery · Docker**  
+**Angular · FastAPI · PostgreSQL · Redis · Celery · Docker**<br>
 [Explore the architecture and roadmap](https://github.com/MarvanGit/workforce-automation-analytics)
 
 ## Tools I work with
@@ -54,8 +53,8 @@ A workforce planning platform in development. The current foundation includes a 
 <p>
   <a href="https://github.com/MarvanGit?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MarvanGit&show_icons=true&hide_rank=true&hide=stars,issues&show=reviews&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=350&disable_animations=true" />
-      <img width="350" alt="GitHub activity: commits, pull requests, reviews, and repositories contributed to" src="https://github-stats-extended.vercel.app/api?username=MarvanGit&show_icons=true&hide_rank=true&hide=stars,issues&show=reviews&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e&icon_color=0969da&card_width=350&disable_animations=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MarvanGit&show_icons=true&hide_rank=true&hide=stars%2Cissues&show=reviews&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=350&disable_animations=true" />
+      <img width="350" alt="GitHub activity: commits, pull requests, reviews, and repositories contributed to" src="https://github-stats-extended.vercel.app/api?username=MarvanGit&show_icons=true&hide_rank=true&hide=stars%2Cissues&show=reviews&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e&icon_color=0969da&card_width=350&disable_animations=true" />
     </picture>
   </a>
   <a href="https://github.com/MarvanGit?tab=repositories">
@@ -72,4 +71,3 @@ A workforce planning platform in development. The current foundation includes a 
 
 **Languages:** English · German · Arabic · Russian  
 Find project details and my background at [marwantaha.dev](https://marwantaha.dev).
-
